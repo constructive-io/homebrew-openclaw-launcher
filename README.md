@@ -1,11 +1,11 @@
 # Homebrew Tap for OpenClaw Launcher
 
-This is the official Homebrew tap for [OpenClaw Launcher](https://github.com/Anmol1696/openclaw-launcher).
+This is the official Homebrew tap for [OpenClaw Launcher](https://github.com/constructive-io/openclaw-launcher).
 
 ## Installation
 
 ```bash
-brew tap anmol1696/openclaw-launcher
+brew tap constructive-io/openclaw-launcher
 brew install --cask openclaw-launcher
 ```
 
@@ -19,11 +19,11 @@ brew upgrade --cask openclaw-launcher
 
 ```bash
 brew uninstall --cask openclaw-launcher
-brew untap anmol1696/openclaw-launcher
+brew untap constructive-io/openclaw-launcher
 ```
 
 ## What is OpenClaw Launcher?
 
 A native macOS app that runs the OpenClaw AI Gateway in Docker with one click. No terminal required.
 
-See the [main repository](https://github.com/Anmol1696/openclaw-launcher) for details.
+See the [main repository](https://github.com/constructive-io/openclaw-launcher) for details.
